@@ -51,7 +51,7 @@ usage available arguments:
 ``` 
 how to pass arguments to the application:
     
-    `java -Dstreet.tree.batch-limit=3000 -jar target/tree-radius-1.0.0-SNAPSHOT.jar`
+    `java -jar target/tree-radius-1.0.0-SNAPSHOT.jar --street.tree.batch-limit=3000`
 
 example:
 ```
