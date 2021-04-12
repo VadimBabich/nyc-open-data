@@ -1,7 +1,5 @@
 # Tree Radius Interview Assignment
 
-Hi there! Congratulations on making it to the next step!
-
 You are given a scaffold application based on Spring Boot to save your time, but you are free to use any other frameworks if you would like to.
 
 Your task is to implement a specific feature as a REST service that uses some 3rd party API.
@@ -24,8 +22,6 @@ Example of the expected output:
 ```
 
 The service should use the data from the 3rd party API (https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/uvpi-gqnh): `https://data.cityofnewyork.us/resource/nwxe-4ae8.json`
-
-If you happen to have any questions, please send an email to your HR contact at Holidu.
 
 Good luck and happy coding!
 
